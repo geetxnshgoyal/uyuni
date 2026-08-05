@@ -1,0 +1,2 @@
+- Align commons-logging ivy pin with version
+  obs-to-maven deploys
